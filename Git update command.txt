@@ -1,0 +1,21 @@
+git init
+git status
+git add .
+git commit -m "Install laravel"
+
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+
+git remote add origin https://github.com/almamuncsit/laravel-course.git
+git push -u origin master
+
+git clone https://github.com/almamuncsit/laravel-course.git
+
+
+git remote -v
+
+git remote set-url origin https://github.com/almamuncsit/rasel.git
+
+git branch -M master
+
+git branch -M main
